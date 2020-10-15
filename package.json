@@ -1,0 +1,11 @@
+{
+  "name": "graduate-and-professional-development",
+  "version": "1.0.0",
+  "description": "At its core this unit will explore three key questions:",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "vuepress build && git add -A && git commit -m 'bot commit' && git push origin master --force"
+  },
+  "author": "",
+  "license": "ISC"
+}
