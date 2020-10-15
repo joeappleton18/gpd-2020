@@ -2,7 +2,7 @@
 
 Please find below a comprehensive set of resources to assist with assessment one. Before you utilise the information below, you should ensure that you have read and understood the assessment brief. 
 
->> [Assessment 1 Brief](/assessments/assessment_1.md)
+>> [Assessment 1 Brief](/gpd-2020/assessments/assessment_1.md)
 
 ## Screen Cast
 
@@ -14,7 +14,7 @@ The screen cast below clarifies, roughly, what needs to be covered for assessmen
 
 You can find, below, a model write-up that I prepared to offer guidance. 
 
->> [Model Write Up](/assessment_support/assessment_1/sample_project_write_up.pdf)
+>> [Model Write Up](/gpd-2020/assessment_support/assessment_1/sample_project_write_up.pdf)
 
 
 ## Sample Student Work 
@@ -25,14 +25,14 @@ I have selected a few choice pieces of work that were particularly good.  Your e
 
 This report demonstrated perfect referencing and a critically balanced literature review. Furthermore, the results are very well presented.
 
->> [Sample Report 1](/assessment_support/assessment_1/student_sample_1.pdf)
+>> [Sample Report 1](/gpd-2020/assessment_support/assessment_1/student_sample_1.pdf)
 
 ### Report 2
 
 This was one of the highest quality pieces of work. As with the report above, it is well formatted. However, this report is also critically aligned with Tuckman’s theory (see key assessment readings). 
 
 
->> [Sample Report 2](/assessment_support/assessment_1/student_sample_2.pdf)
+>> [Sample Report 2](/gpd-2020/assessment_support/assessment_1/student_sample_2.pdf)
 
 
 ## Report Template
