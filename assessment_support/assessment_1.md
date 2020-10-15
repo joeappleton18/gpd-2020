@@ -39,5 +39,5 @@ This was one of the highest quality pieces of work. As with the report above, it
 
 You should ensure you use the solent report template:
 
->> [Report Template](/assessment_support/report_cover_AE1_18-19.docx)
+>> [Report Template](/gpd-2020/assessment_support/report_cover_AE1_18-19.docx)
 
