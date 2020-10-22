@@ -18,7 +18,7 @@ Each assessment is worth **50%** of you overall grade.
 
 | Assessment                                                                                                                             | Submission Date                          |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| [**Assessment 1** 2000 Word Reflective Report - Output and Reflection on Personal Skills and Activities](/assessments/assessment_1.md) | Before 16:00, Friday, 20th November 2020 |
+| [**Assessment 1** 2000 Word Reflective Report - Output and Reflection on Personal Skills and Activities](/assessments/assessment_1.md) | Before 16:00, Friday, 7th November 2020 |
 | [**Assessment 2** 2000 Word Project Proposal -Project Proposal](/assessments/assessment_2.md)                                          | Before 16:00, Friday, 22nd January 2021  |
 
 Assessment 1 will be individual work based on group presentations that will take place, in the practical sessions, on the week starting

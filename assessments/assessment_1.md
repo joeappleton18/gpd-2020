@@ -17,7 +17,7 @@
 | Individual/Group:                 | Individual                                              |
 | Assessment Weighting:             | 50%                                                     |
 | Issue Date:                       | Oct 2020                                                |
-| Hand In Deadline:                 | Before 16:00, Friday, 20th November 2020                |
+| Hand In Deadline:                 | Before 16:00, Friday, 27th November 2020                |
 | Planned Feedback Date:            | Within 4 weeks                                          |
 | Mode of Submission:               | Turnitin                                                |
 | Number of copies to be submitted: | One                                                     |

@@ -41,6 +41,12 @@ module.exports = {
         ],
       },
 
+      {
+        title: "Week 3 -  Employability",
+        collapsable: true,
+        children: ["/week_3/seminar.md"]
+     },
+
       // {
       //   title: "Week 2 -  Critically analysing  sources",
       //   collapsable: true,
