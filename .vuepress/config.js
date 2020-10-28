@@ -51,7 +51,6 @@ module.exports = {
         collapsable: true,
         children: [
           "/week_4/",
-          "/week_4/lecture_presentation.md",
           "/week_4/seminar.md"
         ]
       },
