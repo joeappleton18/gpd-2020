@@ -45,7 +45,16 @@ module.exports = {
         title: "Week 3 -  Employability",
         collapsable: true,
         children: ["/week_3/seminar.md"]
-     },
+      },
+      {
+        title: "Week 4 -  Referencing and Integrity",
+        collapsable: true,
+        children: [
+          "/week_4/",
+          "/week_4/lecture_presentation.md",
+          "/week_4/seminar.md"
+        ]
+      },
 
       // {
       //   title: "Week 2 -  Critically analysing  sources",
