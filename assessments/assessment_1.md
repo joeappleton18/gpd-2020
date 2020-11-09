@@ -1,4 +1,4 @@
-# Assessment 1 - Output and Reflection on Personal Skills and Activities (Due: 20th Nov, 2020 )
+# Assessment 1 - Output and Reflection on Personal Skills and Activities (Due: 27th Nov, 2020 )
 
 ### Solent University
 
