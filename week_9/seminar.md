@@ -2,14 +2,6 @@
 
 ## Session Schedule 	
 
-| Time | Activity   |                                              
-|-------------------|----------------------------------------------|
-| 0 - 10 mins        | <p>Students arrive, no need to logon as the tutor will be presenting</p>  |
-| 10 -  20 mins      |  <p> Tutor revisits and talks about the concepts of problem statements, hypothesis and research questions  </p>  |
-| 20 - 90 mins      |   <p> Students commence with Activity  </p> |
-| 90 -  end of session      |   <p> Students present their work with the tutor encouraging discussion of each presentation  </p> |
-|
-
 
 This is a very exciting week as we will now begin the process of traveling long path towards completing your final year project. The goal of this session is to orientate you with the idea of a research question or hypothosis. 
 

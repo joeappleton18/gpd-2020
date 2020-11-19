@@ -55,6 +55,26 @@ module.exports = {
         ]
       },
 
+      {
+        title: "Week 5 -  Assessment support and PresentationDelivery",
+
+      },
+
+      {
+        title: "Week 6 -  Assessment support and Presentation  Delivery",
+
+      },
+
+        {
+        title: "Week 7 -   Framing Your Project",
+        collapsable: true,
+        children: [
+          "/week_9/seminar.md"  ]
+      },
+
+
+      
+
       // {
       //   title: "Week 2 -  Critically analysing  sources",
       //   collapsable: true,
