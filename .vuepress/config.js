@@ -65,15 +65,22 @@ module.exports = {
 
       },
 
-        {
+      {
         title: "Week 7 -   Framing Your Project",
         collapsable: true,
         children: [
-          "/week_9/seminar.md"  ]
+          "/week_9/seminar.md"]
+      },
+
+      {
+        title: "Week  8  -   Searching the Literature",
+        collapsable: true,
+        children: [
+          "/week_10/seminar.md"]
       },
 
 
-      
+
 
       // {
       //   title: "Week 2 -  Critically analysing  sources",

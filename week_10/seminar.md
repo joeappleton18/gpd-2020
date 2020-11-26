@@ -1,17 +1,8 @@
 
 
-# Week 10  - Searching and Exporting the Literature
+# Week 9  - Searching and Exporting the Literature
 
 ### Session Schedule 	
-
-| Time | Activity   |                                              
-|-------------------|----------------------------------------------|
-| 0 - 10 mins        | <p>Students arrive, no need to logon as the tutor will be presenting</p>  |
-| 10 - 15 mins       | <p> Tutor starts at one end of the class, in turn each student should announce there current final project ideas </p> <p> The tutor may want to stress the point that they should have some idea by now </p> <p>Furthermore, the can lead the students down the path of framing this idea within a research framework </p>
-| 15 -  25 mins      |  <p> Tutor revisits and talks about inclusion and exclusion criteria, and demonstrate how to access and search Science Direct   </p>  |
-| 30 - end of session      |   <p> Students begin the activity </p> <p> Tutor should circulate the room, checking each task has been completed and questioning students of their process </p> |
-|
-|
 
 
 ### Introduction

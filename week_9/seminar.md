@@ -1,4 +1,4 @@
-# Week 9  -  Framing Your Research  
+# Week 8  -  Framing Your Research  
 
 ## Session Schedule 	
 
