@@ -73,10 +73,19 @@ module.exports = {
       },
 
       {
-        title: "Week  8  -   Searching the Literature",
+        title: "Week  9  -   Searching the Literature",
         collapsable: true,
         children: [
           "/week_10/seminar.md"]
+      },
+
+
+      {
+        title: "Week  10  -   Methods",
+        collapsable: true,
+        children: [
+          "/week_11/",
+          "/week_11/seminar.md"]
       },
 
 

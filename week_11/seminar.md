@@ -1,16 +1,6 @@
 
 
-# Week 11  - Research Methods Seminar
-
-### Session Schedule 	
-
-| Time | Activity   |                                              
-|-------------------|----------------------------------------------|
-| 0 - 10 mins        |Student arrive|
-| 10 - 20 mins       |Tutor reviews notes on methodologies  |
-| 20 - 90 mins    |Students work methodologies |
-| 90 - end of session      | Students preset work   |
-
+# Week 10  - Research Methods Seminar
 
 
 ### Introduction
@@ -43,11 +33,11 @@ Computer games are mostly known only for entertainment purposes and in many case
 
 #### Example 3 
 
-Infra-red amongst others has become a very popular medium of communication particularly, in a defined sphere where external network (internet) communi- cation is unbefitting. However, constraints such as limited connectivity range hinders the prominence of employed devices that are based on these technologies protocol.
+Infra-red amongst others has become a very popular medium of communication particularly, in a defined sphere where external network (internet) communi-cation is unbefitting. However, constraints such as limited connectivity range hinders the prominence of employed devices that are based on these technologies protocol.
 
 This project applies a device on device communication that embraces a mesh network topology as a technique for extending communication range between network nodes. 
 
 
 #### Example 4
 
-This project is centred around the design and implementation of a small scale Virtual Learning Environment, that enables schools and teachers to create and share long-form learning materials to the pupils within their classes. This project was chosen because many primary and secondary schools are unable or reluctant to purchase expensive, overwhelming software for their staff and pupils.
+This project is centered around the design and implementation of a small scale Virtual Learning Environment, that enables schools and teachers to create and share long-form learning materials to the pupils within their classes. This project was chosen because many primary and secondary schools are unable or reluctant to purchase expensive, overwhelming software for their staff and pupils.

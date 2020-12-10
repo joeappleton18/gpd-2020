@@ -1,4 +1,4 @@
-# Week 11 - Methods
+# Week 10 - Methods
 
 Methods will make up one of the most important sections of your final year project, they ensure the repeatability of your work. They are documented as a **past tense** account of the tools, instruments and processes that were used to deliver your project. While in reality studies, including your own, won't actually be repeated, methods are still important as they allow the ways in which you conducted your study to be scrutinised. Speaking broadly, for your final year project, your methods will be split between process and evaluative (see Figure 1). I shall briefly explore these different method types below.
 
