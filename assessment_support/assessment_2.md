@@ -8,7 +8,6 @@ Please find below a comprehensive set of resources to assist with assessment one
 
 Below are some samples. Please note, the scope for your final is broad. As such, these pieces of work should act as very loose guidance.
 
-
 ### Sample 1
 
 - This report was excellent. The literature review was insightful and has just the right amount of criticality and contrast between different studies
@@ -16,7 +15,7 @@ Below are some samples. Please note, the scope for your final is broad. As such,
 - The methods are well thought out, and I liked the idea of using a baseline test
 
 
->> [Sample 1](/assessment_support/assessment_2/sample_1.pdf)
+>> [Sample 1](/gpd-2020/assessment_support/assessment_2/sample_1.pdf)
 
 ### Sample 2
 
@@ -24,7 +23,7 @@ Below are some samples. Please note, the scope for your final is broad. As such,
 - The literature review was well constructed. However, it lacked the criticality of 
 
 
->> [Sample 2](/assessment_support/assessment_2/sample_2.pdf)
+>> [Sample 2](/gpd-2020/assessment_support/assessment_2/sample_2.pdf)
 
 
 ## Important Resources
