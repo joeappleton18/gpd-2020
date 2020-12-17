@@ -6,7 +6,7 @@ Please find below a comprehensive set of resources to assist with assessment one
 
 ## Sample Work 
 
-Below are some samples. Please note, the scope for your final is broad. As such, these pieces of work should act as very loose guidance.
+Below are some samples. Please note, the scope for your final project is broad. As such, these pieces of work should act as very loose guidance.
 
 ### Sample 1
 
@@ -20,7 +20,7 @@ Below are some samples. Please note, the scope for your final is broad. As such,
 ### Sample 2
 
 - This project proposes an interesting Hypothesis. 
-- The literature review was well constructed. However, it lacked the criticality of 
+- The literature review was well constructed. However, it lacked the criticality of the above report.
 
 
 >> [Sample 2](/gpd-2020/assessment_support/assessment_2/sample_2.pdf)
